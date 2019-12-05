@@ -1,0 +1,22 @@
+{
+  "name": "LLAudioQueue",
+  "version": "0.1.0",
+  "summary": "A short description of LLAudioQueue.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/704110362@qq.com/LLAudioQueue",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "704110362@qq.com": "704110362@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/704110362@qq.com/LLAudioQueue.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LLAudioQueue/Classes/**/*"
+}

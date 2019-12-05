@@ -1,0 +1,6 @@
+framework module LLAudioQueue {
+  umbrella header "LLAudioQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}
